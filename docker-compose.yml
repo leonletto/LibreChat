@@ -70,3 +70,5 @@ services:
 
 volumes:
   pgdata2:
+  meili_data:
+  mongodb:
